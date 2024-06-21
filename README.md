@@ -1,6 +1,6 @@
 #  Jogo do número secreto em JavaScript 🎮🔮
 ## 🎉 Projeto construído durante curso de Javascript da Alura 🎉
-### [Clique aqui para ir para o site e jogar😃](devcayna.github.io/game_numero_secreto_js/)
+### [Clique aqui para ir para o site e jogar😃]([devcayna.github.io/game_numero_secreto_js/](https://devcayna.github.io/game_numero_secreto_js/))
 
 
 ## Tecnologias usadas
